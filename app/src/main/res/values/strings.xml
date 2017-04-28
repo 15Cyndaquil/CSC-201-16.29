@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CSC-201-16.29</string>
+    <string name="sun">Sun</string>
+    <string name="mon">Mon</string>
+    <string name="tue">Tues</string>
+    <string name="wed">Wed</string>
+    <string name="thu">Thur</string>
+    <string name="fri">Fri</string>
+    <string name="sat">Sat</string>
+</resources>
