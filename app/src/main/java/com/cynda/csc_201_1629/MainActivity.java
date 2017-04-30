@@ -106,7 +106,7 @@ public class MainActivity extends AppCompatActivity {
         while (scan.hasNextInt()) {
             int currentDay = scan.nextInt();
             TextView addDay = new TextView(this);
-            addDay.setText(String.valueOf(currentDay)+"\n");
+            addDay.setText(String.valueOf(currentDay));
             addDay.setWidth(width/7);
             addDay.setTextAlignment(View.TEXT_ALIGNMENT_CENTER);
             addDay.setTextSize(20);
